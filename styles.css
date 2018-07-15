@@ -33,14 +33,14 @@
 }
 
 .page {
-  font-family: 'Poiret One', cursive;
-  font-size: 16px;
-  max-width: 600px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  max-width: 700px;
   margin: 0 auto;
 }
 
 .sitename {
-  font-size: 24px;
+  font-size: 50px;
 }
 
 .banner {
@@ -52,6 +52,11 @@
   font-size: 20px;
 }
 
+.footer {
+  margin-top: 50px;
+  padding: 5px;
+}
+
 a {
   text-decoration: none;
   color: #337;
@@ -59,6 +64,11 @@ a {
 
 a:hover {
   color: blue;
+}
+
+.sonnet {
+  max-width: 500px;
+  margin: 0 auto;
 }
 
 .sonnet-image-container {

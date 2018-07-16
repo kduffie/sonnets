@@ -98,11 +98,11 @@ a:hover {
 }
 
 .stanza {
-  margin: 15px 0;
+  margin: 24px 0;
 }
 
 .line {
-  margin: 0.25em;
+  margin: 4px 0;
   padding-left: 20px ;
   text-indent: -20px ;
 }

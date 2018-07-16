@@ -33,8 +33,8 @@
 }
 
 .page {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 18px;
+  font-family: 'Homenaje', sans-serif;
+  font-size: 20px;
   max-width: 700px;
   margin: 0 auto;
   color: #333;
@@ -71,9 +71,10 @@ a:hover {
 }
 
 .sonnet {
-  max-width: 500px;
+  max-width: 400px;
   margin: 0 auto;
-  font-family: 'Merienda One', cursive;
+  font-family: 'EB Garamond', serif;
+  padding: 10px;
 }
 
 .sonnet-image-container {
@@ -90,12 +91,11 @@ a:hover {
   font-size: 50px;
   text-align: center;
   margin: 40px 0;
-  color: #aaa;
+  color: #888;
 }
 
 .sonnet-title {
   font-size: 30px;
-  margin: 40px 0;
 }
 
 .stanza {
@@ -103,8 +103,39 @@ a:hover {
 }
 
 .line {
-  margin: 4px 0;
+  margin: 2px 0;
   padding-left: 20px ;
   text-indent: -20px ;
 }
 
+.page-list {
+  font-family: "EB Garamond", serif;
+  margin: 50px auto;
+  max-width: 500px;
+}
+
+.page-item {
+  margin: 25px 0; 
+  font-size: 18px; 
+}
+
+.item-title {
+  font-size: 24px;
+}
+
+.item-first-line {
+  color: #777;  
+}
+
+.home-page-banner {
+  margin: 50px 0;
+  text-align: center;
+}
+
+.home-page-title {
+  font-size: 60px;  
+}
+
+.home-page-by {
+  font-size: 24px;
+}
